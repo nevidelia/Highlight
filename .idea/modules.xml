@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nevidelia_Highlight.iml" filepath="$PROJECT_DIR$/.idea/modules/Nevidelia_Highlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Highlight/Nevidelia_Highlight.Highlight.iml" filepath="$PROJECT_DIR$/.idea/modules/Highlight/Nevidelia_Highlight.Highlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Nevidelia_Highlight.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Nevidelia_Highlight.app.iml" />
+    </modules>
+  </component>
+</project>
